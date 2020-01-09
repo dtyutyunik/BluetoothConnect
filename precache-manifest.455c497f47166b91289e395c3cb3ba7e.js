@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "36b841d8a53028367a3e1621bac61aa2",
+    "revision": "98dac1f96a67df31b2bdda48493737af",
     "url": "/BluetoothConnect/client/index.html"
   },
   {
-    "revision": "135a4f42e9adf86a8b78",
+    "revision": "3be344d65f259dfc5138",
     "url": "/BluetoothConnect/client/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BluetoothConnect/client/static/js/2.44ec59e8.chunk.js.LICENSE"
   },
   {
-    "revision": "135a4f42e9adf86a8b78",
-    "url": "/BluetoothConnect/client/static/js/main.294c56e9.chunk.js"
+    "revision": "3be344d65f259dfc5138",
+    "url": "/BluetoothConnect/client/static/js/main.76893e12.chunk.js"
   },
   {
     "revision": "026641f9289402083502",

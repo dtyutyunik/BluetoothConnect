@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/BluetoothConnect/client/precache-manifest.27ecb6f895019b301e653b4924d46b9a.js"
+  "/BluetoothConnect/client/precache-manifest.455c497f47166b91289e395c3cb3ba7e.js"
 );
 
 self.addEventListener('message', (event) => {
